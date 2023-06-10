@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edi <code>src/App.js</code>esto es una prueba 
+          Edi <code>src/App.js</code>esto es una prueba tercera, push desde visual codee
         
         </p>
         <a
